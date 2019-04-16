@@ -1,0 +1,12 @@
+{
+	"modules" : { 
+		"parle"  : {
+			"description": "Faire parler Avatar depuis box domotique",
+			"exemple": "URL a utiliser : http://IPSERVERAVATAR:3000/Avatar/parle?command=parle&txt=Bonjour&client=NOMDUCLIENTAVATAR",
+			"version": "1.0",
+			"active" : true,
+			"rules" : {
+			}
+		}
+	}
+}
